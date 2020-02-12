@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle iv-profiles",
+        "command": "iv-profiles:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "iv-profiles",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "iv-profiles:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
