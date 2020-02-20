@@ -4,4 +4,4 @@ This package allows you to enabled/disable multiple packages in Atom with a sing
 
 ## Screenshot:
 
-![Screenshot](https://raw.githubusercontent.com/samuelivarsson/iv-profiles/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/samuelivarsson/atom-iv-profiles/master/screenshot.png)
