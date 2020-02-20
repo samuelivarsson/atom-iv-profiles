@@ -1,7 +1,7 @@
 {
   "name": "iv-profiles",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Package profiles for activating/deactivating a group of packages in Atom.",
   "repository": "https://github.com/samuelivarsson/atom-iv-profiles",
   "license": "MIT",
@@ -10,17 +10,17 @@
   },
   "activationCommands": {
     "atom-workspace": [
-        "iv-profiles:toggle-view",
-        "iv-profiles:profile-1-toggle",
-        "iv-profiles:profile-2-toggle",
-        "iv-profiles:profile-3-toggle",
-        "iv-profiles:profile-4-toggle",
-        "iv-profiles:profile-5-toggle",
-        "iv-profiles:profile-6-toggle",
-        "iv-profiles:profile-7-toggle",
-        "iv-profiles:profile-8-toggle",
-        "iv-profiles:profile-9-toggle",
-        "iv-profiles:profile-10-toggle"
+      "iv-profiles:toggle-view",
+      "iv-profiles:profile-1-toggle",
+      "iv-profiles:profile-2-toggle",
+      "iv-profiles:profile-3-toggle",
+      "iv-profiles:profile-4-toggle",
+      "iv-profiles:profile-5-toggle",
+      "iv-profiles:profile-6-toggle",
+      "iv-profiles:profile-7-toggle",
+      "iv-profiles:profile-8-toggle",
+      "iv-profiles:profile-9-toggle",
+      "iv-profiles:profile-10-toggle"
     ]
   },
   "bugs": {
