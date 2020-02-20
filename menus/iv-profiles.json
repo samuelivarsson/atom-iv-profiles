@@ -12,11 +12,51 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "iv-profiles",
+          "label": "Iv-Profiles",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "iv-profiles:toggle"
+              "label": "Toggle View",
+              "command": "iv-profiles:toggle-view"
+            },
+            {
+                "label": "Toggle Profile 1",
+                "command": "iv-profiles:profile-1-toggle"
+            },
+            {
+                "label": "Toggle Profile 2",
+                "command": "iv-profiles:profile-2-toggle"
+            },
+            {
+                "label": "Toggle Profile 3",
+                "command": "iv-profiles:profile-3-toggle"
+            },
+            {
+                "label": "Toggle Profile 4",
+                "command": "iv-profiles:profile-4-toggle"
+            },
+            {
+                "label": "Toggle Profile 5",
+                "command": "iv-profiles:profile-5-toggle"
+            },
+            {
+                "label": "Toggle Profile 6",
+                "command": "iv-profiles:profile-6-toggle"
+            },
+            {
+                "label": "Toggle Profile 7",
+                "command": "iv-profiles:profile-7-toggle"
+            },
+            {
+                "label": "Toggle Profile 8",
+                "command": "iv-profiles:profile-8-toggle"
+            },
+            {
+                "label": "Toggle Profile 9",
+                "command": "iv-profiles:profile-9-toggle"
+            },
+            {
+                "label": "Toggle Profile 10",
+                "command": "iv-profiles:profile-10-toggle"
             }
           ]
         }

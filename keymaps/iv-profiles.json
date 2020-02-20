@@ -1,5 +1,8 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "iv-profiles:toggle"
+    "ctrl-alt-p": "iv-profiles:toggle-view"
+  },
+  ".platform-linux body, .platform-win32 body": {
+    "ctrl-q": "application:quit"
   }
 }

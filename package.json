@@ -1,18 +1,39 @@
 {
   "name": "iv-profiles",
-  "main": "./lib/iv-profiles",
+  "main": "./lib/main",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [
-  ],
-  "activationCommands": {
-    "atom-workspace": "iv-profiles:toggle"
-  },
+  "description": "Package profiles for activating/deactivating a group of packages in Atom.",
   "repository": "https://github.com/atom/iv-profiles",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
+  "activationCommands": {
+    "atom-workspace": [
+        "iv-profiles:toggle-view",
+        "iv-profiles:profile-1-toggle",
+        "iv-profiles:profile-2-toggle",
+        "iv-profiles:profile-3-toggle",
+        "iv-profiles:profile-4-toggle",
+        "iv-profiles:profile-5-toggle",
+        "iv-profiles:profile-6-toggle",
+        "iv-profiles:profile-7-toggle",
+        "iv-profiles:profile-8-toggle",
+        "iv-profiles:profile-9-toggle",
+        "iv-profiles:profile-10-toggle"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/samuelivarsson/iv-profiles/issues"
+  },
   "dependencies": {
-  }
+    "atom-select-list": "^0.7.2"
+  },
+  "homepage": "https://github.com/samuelivarsson/iv-profiles#readme",
+  "keywords": [
+    "profiles",
+    "package",
+    "profile",
+    "disable"
+  ]
 }

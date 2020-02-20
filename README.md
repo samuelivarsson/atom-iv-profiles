@@ -1,5 +1,7 @@
-# iv-profiles package
+# Package Profiles for Atom
 
-A short description of your package.
+This package allows you to enabled/disable multiple packages in Atom with a single command.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Screenshot:
+
+![Screenshot](https://raw.githubusercontent.com/samuelivarsson/iv-profiles/master/screenshot.png)
