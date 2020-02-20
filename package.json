@@ -1,7 +1,7 @@
 {
   "name": "iv-profiles",
   "main": "./lib/main",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Package profiles for activating/deactivating a group of packages in Atom.",
   "repository": "https://github.com/samuelivarsson/atom-iv-profiles",
   "license": "MIT",
