@@ -3,7 +3,7 @@
   "main": "./lib/main",
   "version": "0.0.0",
   "description": "Package profiles for activating/deactivating a group of packages in Atom.",
-  "repository": "https://github.com/atom/iv-profiles",
+  "repository": "https://github.com/samuelivarsson/atom-iv-profiles",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
