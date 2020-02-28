@@ -1,3 +1,7 @@
+## 0.2.1
+
+* Fixed "Report Issue" and "Homepage" links.
+
 ## 0.2.0
 
 * Disabling a profile doesn't disable packages which is in another active profile.

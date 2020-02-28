@@ -24,12 +24,12 @@
     ]
   },
   "bugs": {
-    "url": "https://github.com/samuelivarsson/iv-profiles/issues"
+    "url": "https://github.com/samuelivarsson/atom-iv-profiles/issues"
   },
   "dependencies": {
     "atom-select-list": "^0.7.2"
   },
-  "homepage": "https://github.com/samuelivarsson/iv-profiles#readme",
+  "homepage": "https://github.com/samuelivarsson/atom-iv-profiles#readme",
   "keywords": [
     "profiles",
     "package",
