@@ -1,3 +1,7 @@
+## 0.2.0
+
+* Disabling a profile doesn't disable packages which is in another active profile.
+
 ## 0.1.1
 
 * Fixed README screenshot.
